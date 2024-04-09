@@ -21,209 +21,49 @@
     }
     ]
 }#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + T D T + + + + + + + +" tvg-logo="" group-title="ESPAÑA",+ + + + + + + T D T + + + + + + + +
-http://xoabualgra.online:2082/salvaba/salvaba/178030
-#EXTINF:-1 tvg-id="LA 1" tvg-name="La 1 SD" tvg-logo="http://discusfish.xyz:25461/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="ESPAÑA",La 1 SD
-http://xoabualgra.online:2082/salvaba/salvaba/178031
-#EXTINF:-1 tvg-id="LA 1" tvg-name="La 1 HD" tvg-logo="http://discusfish.xyz:25461/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="ESPAÑA",La 1 HD
-http://xoabualgra.online:2082/salvaba/salvaba/178032
-#EXTINF:-1 tvg-id="LA 1" tvg-name="La 1 FHD" tvg-logo="http://discusfish.xyz:25461/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="ESPAÑA",La 1 FHD
-http://xoabualgra.online:2082/salvaba/salvaba/178033
-#EXTINF:-1 tvg-id="LA 2" tvg-name="La 2 SD" tvg-logo="http://discusfish.xyz:25461/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="ESPAÑA",La 2 SD
-http://xoabualgra.online:2082/salvaba/salvaba/178034
-#EXTINF:-1 tvg-id="LA 2" tvg-name="La 2 HD" tvg-logo="http://discusfish.xyz:25461/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="ESPAÑA",La 2 HD
-#EXTINF:-1 tvg-id="" tvg-name="La 1 Canarias" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="AUTONOMICOS",La 1 Canarias
-http://xoabualgra.online:2082/salvaba/salvaba/241508
-#EXTINF:-1 tvg-id="" tvg-name="La 2 Canarias" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONOMICOS",La 2 Canarias
-http://xoabualgra.online:2082/salvaba/salvaba/241509
-#EXTINF:-1 tvg-id="" tvg-name="24h Canarias" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="AUTONOMICOS",24h Canarias
-http://xoabualgra.online:2082/salvaba/salvaba/241510
-#EXTINF:-1 tvg-id="" tvg-name="Mírame TV" tvg-logo="https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200" group-title="AUTONOMICOS",Mírame TV
-http://xoabualgra.online:2082/salvaba/salvaba/241511
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Tenerife" tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 4 Tenerife
-http://xoabualgra.online:2082/salvaba/salvaba/241512
-#EXTINF:-1 tvg-id="" tvg-name="Biosfera TV" tvg-logo="https://graph.facebook.com/biosferamedia/picture?width=200&height=200" group-title="AUTONOMICOS",Biosfera TV
-http://xoabualgra.online:2082/salvaba/salvaba/241513
-#EXTINF:-1 tvg-id="" tvg-name="NORTEvisión" tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="AUTONOMICOS",NORTEvisión
-http://xoabualgra.online:2082/salvaba/salvaba/241514
-#EXTINF:-1 tvg-id="" tvg-name="RTV Mogán" tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200" group-title="AUTONOMICOS",RTV Mogán
-http://xoabualgra.online:2082/salvaba/salvaba/241515
-#EXTINF:-1 tvg-id="" tvg-name="Lancelot TV" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="AUTONOMICOS",Lancelot TV
-http://xoabualgra.online:2082/salvaba/salvaba/241516
-#EXTINF:-1 tvg-id="" tvg-name="Este Canal TV" tvg-logo="https://graph.facebook.com/estecanaltv/picture?width=200&height=200" group-title="AUTONOMICOS",Este Canal TV
-http://xoabualgra.online:2082/salvaba/salvaba/241517
-#EXTINF:-1 tvg-id="" tvg-name="Noroeste TV" tvg-logo="https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200" group-title="AUTONOMICOS",Noroeste TV
-http://xoabualgra.online:2082/salvaba/salvaba/241518
-#EXTINF:-1 tvg-id="" tvg-name="Afortunadas TV" tvg-logo="https://graph.facebook.com/afortunadastv/picture?width=200&height=200" group-title="AUTONOMICOS",Afortunadas TV
-http://xoabualgra.online:2082/salvaba/salvaba/241519
-#EXTINF:-1 tvg-id="" tvg-name="Popular TV Cantabria" tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200" group-title="AUTONOMICOS",Popular TV Cantabria
-http://xoabualgra.online:2082/salvaba/salvaba/241520
-#EXTINF:-1 tvg-id="" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="AUTONOMICOS",Castilla-La Mancha Media
-http://xoabualgra.online:2082/salvaba/salvaba/241521
-#EXTINF:-1 tvg-id="" tvg-name="TV Hellín" tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200" group-title="AUTONOMICOS",TV Hellín
-http://xoabualgra.online:2082/salvaba/salvaba/241522
-#EXTINF:-1 tvg-id="" tvg-name="Guada TV Media" tvg-logo="https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200" group-title="AUTONOMICOS",Guada TV Media
-http://xoabualgra.online:2082/salvaba/salvaba/241523
-#EXTINF:-1 tvg-id="" tvg-name="Visión 6 TV" tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200" group-title="AUTONOMICOS",Visión 6 TV
-http://xoabualgra.online:2082/salvaba/salvaba/241524
-#EXTINF:-1 tvg-id="" tvg-name="Imás TV" tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="AUTONOMICOS",Imás TV
-http://xoabualgra.online:2082/salvaba/salvaba/241525
-#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="AUTONOMICOS",Alcarria TV
-http://xoabualgra.online:2082/salvaba/salvaba/241526
-#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="AUTONOMICOS",Alcarria TV
-http://xoabualgra.online:2082/salvaba/salvaba/241527
-#EXTINF:-1 tvg-id="" tvg-name="Manzanares10TV" tvg-logo="https://graph.facebook.com/Manzanares10TV/picture?width=200&height=200" group-title="AUTONOMICOS",Manzanares10TV
-http://xoabualgra.online:2082/salvaba/salvaba/241528
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Mancha Centro" tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 4 Mancha Centro
-http://xoabualgra.online:2082/salvaba/salvaba/241529
-#EXTINF:-1 tvg-id="" tvg-name="TeleToledo" tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200" group-title="AUTONOMICOS",TeleToledo
-http://xoabualgra.online:2082/salvaba/salvaba/241530
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2000" tvg-logo="https://graph.facebook.com/canal2000/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 2000
-http://xoabualgra.online:2082/salvaba/salvaba/241531
-#EXTINF:-1 tvg-id="" tvg-name="La 7" tvg-logo="https://graph.facebook.com/cyltv/picture?width=200&height=200" group-title="AUTONOMICOS",La 7
-http://xoabualgra.online:2082/salvaba/salvaba/241532
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Avila" tvg-logo="https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg" group-title="AUTONOMICOS",La 8 Avila
-http://xoabualgra.online:2082/salvaba/salvaba/241533
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Bierzo" tvg-logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Bierzo
-http://xoabualgra.online:2082/salvaba/salvaba/241534
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Burgos" tvg-logo="https://graph.facebook.com/La8Burgos/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Burgos
-http://xoabualgra.online:2082/salvaba/salvaba/241535
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Leon" tvg-logo="https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_200x200.jpg" group-title="AUTONOMICOS",La 8 Leon
-http://xoabualgra.online:2082/salvaba/salvaba/241536
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Palencia" tvg-logo="https://graph.facebook.com/La8Palencia/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Palencia
-http://xoabualgra.online:2082/salvaba/salvaba/241537
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Salamanca" tvg-logo="https://graph.facebook.com/la8salamanca/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Salamanca
-http://xoabualgra.online:2082/salvaba/salvaba/241538
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Segovia" tvg-logo="https://graph.facebook.com/la8segovia/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Segovia
-http://xoabualgra.online:2082/salvaba/salvaba/241539
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Soria" tvg-logo="https://graph.facebook.com/La8Soria/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Soria
-http://xoabualgra.online:2082/salvaba/salvaba/241540
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Valladolid" tvg-logo="https://graph.facebook.com/la8valladolid/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Valladolid
-http://xoabualgra.online:2082/salvaba/salvaba/241541
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Zamora" tvg-logo="https://graph.facebook.com/la8zamora/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Zamora
-http://xoabualgra.online:2082/salvaba/salvaba/241542
-#EXTINF:-1 tvg-id="" tvg-name="TV Benavente" tvg-logo="https://graph.facebook.com/benaventetv/picture?width=200&height=200" group-title="AUTONOMICOS",TV Benavente
-http://xoabualgra.online:2082/salvaba/salvaba/241543
-#EXTINF:-1 tvg-id="" tvg-name="TV Aranda" tvg-logo="https://graph.facebook.com/575943555801687/picture?width=200&height=200" group-title="AUTONOMICOS",TV Aranda
-http://xoabualgra.online:2082/salvaba/salvaba/241544
-#EXTINF:-1 tvg-id="" tvg-name="Junta Castilla y León" tvg-logo="https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200" group-title="AUTONOMICOS",Junta Castilla y León
-http://xoabualgra.online:2082/salvaba/salvaba/241545
-#EXTINF:-1 tvg-id="" tvg-name="TV3 GEO CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONOMICOS",TV3 GEO CAT
-http://xoabualgra.online:2082/salvaba/salvaba/241546
-#EXTINF:-1 tvg-id="" tvg-name="TV3 GEO" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONOMICOS",TV3 GEO
-http://xoabualgra.online:2082/salvaba/salvaba/241547
-#EXTINF:-1 tvg-id="" tvg-name="324" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="AUTONOMICOS",324
-http://xoabualgra.online:2082/salvaba/salvaba/241548
-#EXTINF:-1 tvg-id="" tvg-name="33 GEO CAT" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="AUTONOMICOS",33 GEO CAT
-http://xoabualgra.online:2082/salvaba/salvaba/241549
-#EXTINF:-1 tvg-id="" tvg-name="33 GEO" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="AUTONOMICOS",33 GEO
-http://xoabualgra.online:2082/salvaba/salvaba/241550
-#EXTINF:-1 tvg-id="" tvg-name="Super3 GEO CAT" tvg-logo="https://graph.facebook.com/clubsuper3/picture?width=200&height=200" group-title="AUTONOMICOS",Super3 GEO CAT
-http://xoabualgra.online:2082/salvaba/salvaba/241551
-#EXTINF:-1 tvg-id="" tvg-name="Super3 GEO" tvg-logo="https://graph.facebook.com/clubsuper3/picture?width=200&height=200" group-title="AUTONOMICOS",Super3 GEO
-http://xoabualgra.online:2082/salvaba/salvaba/241552
-#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 1 GEO CAT" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 1 GEO CAT
-http://xoabualgra.online:2082/salvaba/salvaba/241553
-#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 1 GEO" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 1 GEO
-http://xoabualgra.online:2082/salvaba/salvaba/241554
-#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 2 GEO CAT" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 2 GEO CAT
-http://xoabualgra.online:2082/salvaba/salvaba/241555
-#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 2 GEO" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 2 GEO
-http://xoabualgra.online:2082/salvaba/salvaba/241556
-#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 3 GEO CAT" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 3 GEO CAT
-http://xoabualgra.online:2082/salvaba/salvaba/241557
-#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 3 GEO" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 3 GEO
-http://xoabualgra.online:2082/salvaba/salvaba/241558
-#EXTINF:-1 tvg-id="" tvg-name="La 1 Catalunya" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="AUTONOMICOS",La 1 Catalunya
-http://xoabualgra.online:2082/salvaba/salvaba/241559
-#EXTINF:-1 tvg-id="" tvg-name="La 1 Catalunya" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="AUTONOMICOS",La 1 Catalunya
-http://xoabualgra.online:2082/salvaba/salvaba/241560
-#EXTINF:-1 tvg-id="" tvg-name="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONOMICOS",La 2 Catalunya
-http://xoabualgra.online:2082/salvaba/salvaba/241561
-#EXTINF:-1 tvg-id="" tvg-name="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONOMICOS",La 2 Catalunya
-http://xoabualgra.online:2082/salvaba/salvaba/241562
-#EXTINF:-1 tvg-id="" tvg-name="24h Catalunya" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="AUTONOMICOS",24h Catalunya
-http://xoabualgra.online:2082/salvaba/salvaba/241563
-#EXTINF:-1 tvg-id="" tvg-name="Bon Dia TV" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="AUTONOMICOS",Bon Dia TV
-http://xoabualgra.online:2082/salvaba/salvaba/241564
-#EXTINF:-1 tvg-id="" tvg-name="betevé" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="AUTONOMICOS",betevé
-http://xoabualgra.online:2082/salvaba/salvaba/241565
-#EXTINF:-1 tvg-id="" tvg-name="Fibracat TV" tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="AUTONOMICOS",Fibracat TV
-http://xoabualgra.online:2082/salvaba/salvaba/241566
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Televisió" tvg-logo="http://grup4.com/wp-content/uploads/2016/07/2-300x300.png" group-title="AUTONOMICOS",Canal 4 Televisió
-http://xoabualgra.online:2082/salvaba/salvaba/241567
-#EXTINF:-1 tvg-id="" tvg-name="8 TV" tvg-logo="https://graph.facebook.com/8tvcat/picture?width=200&height=200" group-title="AUTONOMICOS",8 TV
-http://xoabualgra.online:2082/salvaba/salvaba/241568
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241569
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241570
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canalreustelevisio/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241571
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canalreustelevisio/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241572
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/el9nou/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241573
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/el9nou/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241574
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/empordatv/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241575
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/empordatv/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241576
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241577
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241578
-#EXTINF:-1 tvg-id="" tvg-name="TAC 12" tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="AUTONOMICOS",TAC 12
-http://xoabualgra.online:2082/salvaba/salvaba/241579
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241580
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241581
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canal21televisio/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241582
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canal21televisio/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241583
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241584
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241585
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241586
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241587
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/laxarxa/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241588
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/laxarxa/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241589
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/olotelevisio/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241590
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/olotelevisio/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241591
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/CanalBlau/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241592
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/CanalBlau/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241593
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/taronja.cat/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241594
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/taronja.cat/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241595
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241596
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241597
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/televisiodelbergueda/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241598
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/televisiodelbergueda/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241599
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241600
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241601
-#EXTINF:-1 tvg-id="" tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://xoabualgra.online:2082/salvaba/salvaba/241602
-
-
-
+#EXTM3U
+#EXTINF:-1 acestream-autosearch="1" acestream-mediainfo-container="AVI" acestream-mediainfo-video-codec="xvid" acestream-mediainfo-audio-codec="MPEG-1/2 L3",Ocho apellidos Marroquies
+acestream://50ea9249cf9b9536ca41386e273be45e76f963e3
+#EXTINF:-1 acestream-autosearch="1" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="V_MPEGH/ISO/HEVC" acestream-mediainfo-audio-codec="AC3",Pobres criaturas (2023) [4k 2160p][Esp](wolfmax4k.com).mkv
+acestream://48b0ee708917c5f215a7bd20f0ca09207b873eb1
+#EXTINF:-1 acestream-autosearch="1",Road House De profesion duro (2024) [4k 2160p][Esp](wolfmax4k.com).mkv
+acestream://2923c5c37ab38d4c03b7689b0efa9289673b4205
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. LaLiga
+magnet:?xt=urn:btih:83d43d89061d3790c1a9938a967ce8734a0bd6ce
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN F1 HD
+magnet:?xt=urn:btih:6d325cda6ed591647ef5e91edd043147bce8be30
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN2
+magnet:?xt=urn:btih:c93a0d4914713db942fbb210bac467b0224c63a6
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN3
+magnet:?xt=urn:btih:98fba924421aa1e4bd28e74d74a2726d0459b594
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Liga de Campeones
+magnet:?xt=urn:btih:8c1c3eae077f3a786ed2f0a426197ea93fdf7373
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN1
+magnet:?xt=urn:btih:0560234787945a17522e284c4c22bb4df29f33b0
+#EXTINF:-1 acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="MPEG-4" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AAC LC",Damsel (2024) CAST.mp4
+acestream://e1205196da751050073fb10e4a24c21ccdd92cf0
+#EXTINF:-1 acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AC3+",Retribution (2023) [Bluray 1080p.mkv
+acestream://4cd9f15d8f222dd5fb0e8970649fad56a1099bcb
+#EXTINF:-1 acestream-autosearch="1" group-title="pelis",Ricky Stanicky (2024) CAST.mp4
+acestream://756e64255a8c01510b9a9009dd685671f6cd4da4
+#EXTINF:-1 acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="MPEG-4" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AAC LC",Sympathy for the Devil (2023) cast.mp4
+acestream://9ea973b489ea891b924fc315edd8f603b2455e0f
+#EXTINF:-1 acestream-autosearch="1" group-title="amateur" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:132278cc7b609074f51dc7c21f2b5dae35dd1491
+#EXTINF:-1 acestream-autosearch="1" group-title="amateur" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:132278cc7b609074f51dc7c21f2b5dae35dd1491
+#EXTINF:-1 acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:132278cc7b609074f51dc7c21f2b5dae35dd1491
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Golf HD
+magnet:?xt=urn:btih:b715ba3d23d3dca6736ac86990efe105087c3401
+#EXTINF:-1 acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:132278cc7b609074f51dc7c21f2b5dae35dd1491
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Golf HD
+magnet:?xt=urn:btih:b715ba3d23d3dca6736ac86990efe105087c3401
+#EXTINF:-1 acestream-autosearch="1" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="V_MPEGH/ISO/HEVC" acestream-mediainfo-audio-codec="AC3+",Los asesinos de la luna (2023) [4k 2160p][Esp](wolfmax4k.com).mkv
+acestream://18c4c8ad7f555cc4bc8913dfe4a10fff02756aa2
+#EXTINF:-1 acestream-autosearch="1" group-title="movies" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AC3+",Ocho apellidos marroquis (2023) [Bluray 1080p][Esp](wolfmax4k.com).mkv
+acestream://fadd2db4e1fcec19278fc520dd5f5b45668e84fc
+http://avod.me/play/e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
