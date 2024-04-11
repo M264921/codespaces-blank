@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 acestream-autosearch="1" acestream-mediainfo-container="AVI" acestream-mediainfo-video-codec="xvid" acestream-mediainfo-audio-codec="MPEG-1/2 L3",Ocho apellidos Marroquies
+acestream://50ea9249cf9b9536ca41386e273be45e76f963e3
+#EXTINF:-1 acestream-autosearch="1" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="V_MPEGH/ISO/HEVC" acestream-mediainfo-audio-codec="AC3",Pobres criaturas (2023) [4k 2160p][Esp](wolfmax4k.com).mkv
+acestream://48b0ee708917c5f215a7bd20f0ca09207b873eb1
+#EXTINF:-1 acestream-autosearch="1",Road House De profesion duro (2024) [4k 2160p][Esp](wolfmax4k.com).mkv
+acestream://2923c5c37ab38d4c03b7689b0efa9289673b4205
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. LaLiga
+magnet:?xt=urn:btih:83d43d89061d3790c1a9938a967ce8734a0bd6ce
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN F1 HD
+magnet:?xt=urn:btih:6d325cda6ed591647ef5e91edd043147bce8be30
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN2
+magnet:?xt=urn:btih:c93a0d4914713db942fbb210bac467b0224c63a6
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN3
+magnet:?xt=urn:btih:98fba924421aa1e4bd28e74d74a2726d0459b594
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Liga de Campeones
+magnet:?xt=urn:btih:8c1c3eae077f3a786ed2f0a426197ea93fdf7373
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN1
+magnet:?xt=urn:btih:0560234787945a17522e284c4c22bb4df29f33b0
+#EXTINF:-1 acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="MPEG-4" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AAC LC",Damsel (2024) CAST.mp4
+acestream://e1205196da751050073fb10e4a24c21ccdd92cf0
+#EXTINF:-1 acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AC3+",Retribution (2023) [Bluray 1080p.mkv
+acestream://4cd9f15d8f222dd5fb0e8970649fad56a1099bcb
+#EXTINF:-1 acestream-autosearch="1" group-title="pelis",Ricky Stanicky (2024) CAST.mp4
+acestream://756e64255a8c01510b9a9009dd685671f6cd4da4
+#EXTINF:-1 acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="MPEG-4" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AAC LC",Sympathy for the Devil (2023) cast.mp4
+acestream://9ea973b489ea891b924fc315edd8f603b2455e0f
+#EXTINF:-1 acestream-autosearch="1" group-title="amateur" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:ac592443792e737d1320419776816f51982c3c2f
+#EXTINF:-1 acestream-autosearch="1" group-title="amateur" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:ac592443792e737d1320419776816f51982c3c2f
+#EXTINF:-1 acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:ac592443792e737d1320419776816f51982c3c2f
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Golf HD
+magnet:?xt=urn:btih:b715ba3d23d3dca6736ac86990efe105087c3401
+#EXTINF:-1 acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:ac592443792e737d1320419776816f51982c3c2f
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Golf HD
+magnet:?xt=urn:btih:b715ba3d23d3dca6736ac86990efe105087c3401
+#EXTINF:-1 acestream-autosearch="1" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="V_MPEGH/ISO/HEVC" acestream-mediainfo-audio-codec="AC3+",Los asesinos de la luna (2023) [4k 2160p][Esp](wolfmax4k.com).mkv
+acestream://18c4c8ad7f555cc4bc8913dfe4a10fff02756aa2
+#EXTINF:-1 acestream-autosearch="1" group-title="movies" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AC3+",Ocho apellidos marroquis (2023) [Bluray 1080p][Esp](wolfmax4k.com).mkv
+acestream://fadd2db4e1fcec19278fc520dd5f5b45668e84fc
+#EXTINF:-1 acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:ac592443792e737d1320419776816f51982c3c2f
+#EXTINF:-1 acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:ac592443792e737d1320419776816f51982c3c2f
+#EXTINF:-1 acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+magnet:?xt=urn:btih:ac592443792e737d1320419776816f51982c3c2f
+#EXTINF:-1,M. LaLiga
+acestream://55fc693d7e5162666424aea0de15d23395bd2628
+#EXTINF:-1,DAZN2
+acestream://082c092f98f672cb331eabe76547ea659aac57a4
+#EXTINF:-1,DAZN3
+acestream://3e9a24a341a5b559f42a29aecdcd79a1f2575f4b
+#EXTINF:-1,M. Liga de Campeones
+acestream://6944272b057c9a276914799976a56016f558d061
+#EXTINF:-1,DAZN1
+acestream://e4544f756b6e8c09a72d85312bd10a69825eaa7e
+#EXTINF:-1,Elcano.top ready with Opera VPN
+acestream://1ddfedf3fdb56f1428c000085d7eb464f0b0e58f
