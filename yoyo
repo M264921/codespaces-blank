@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="LA1HD.TV" tvg-name="LA 1 HD" tvg-logo="" group-title="CANALES",LA 1 HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5799
+#EXTINF:-1 tvg-ID="LA2HD.TV" tvg-name="LA 2 HD" tvg-logo="" group-title="CANALES",LA 2 HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5800
+#EXTINF:-1 tvg-ID="ANTENA3HD.TV" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="CANALES",ANTENA 3 HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5801
+#EXTINF:-1 tvg-ID="CUATROHD.TV" tvg-name="CUATRO HD" tvg-logo="" group-title="CANALES",CUATRO HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5802
+#EXTINF:-1 tvg-ID="TELECINCOHD.TV" tvg-name="TELECINCO HD" tvg-logo="" group-title="CANALES",TELECINCO HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5803
+#EXTINF:-1 tvg-ID="LASEXTAHD.TV" tvg-name="LA SEXTA HD" tvg-logo="" group-title="CANALES",LA SEXTA HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5804
+#EXTINF:-1 tvg-ID="MOVISTARPLUS+.TV" tvg-name="MOVISTAR PLUS +" tvg-logo="" group-title="CANALES",MOVISTAR PLUS +
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/7575
+#EXTINF:-1 tvg-ID="MOVISTARPLUS2HD.TV" tvg-name="MOVISTAR PLUS 2 HD" tvg-logo="" group-title="CANALES",MOVISTAR PLUS 2 HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/16474
+#EXTINF:-1 tvg-ID="M+VAMOS.TV" tvg-name="M+ VAMOS" tvg-logo="" group-title="CANALES",M+ VAMOS
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5806
+#EXTINF:-1 tvg-ID="ELLAS#V.TV" tvg-name="ELLAS #V" tvg-logo="" group-title="CANALES",ELLAS #V
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/12438
+#EXTINF:-1 tvg-ID="ARAGONTV.TV" tvg-name="ARAGON TV " tvg-logo="" group-title="CANALES",ARAGON TV 
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5807
+#EXTINF:-1 tvg-ID="CANALSURA..TV" tvg-name="CANAL SUR A." tvg-logo="" group-title="CANALES",CANAL SUR A.
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5808
+#EXTINF:-1 tvg-ID="ONDACADIZ.TV" tvg-name="ONDA CADIZ" tvg-logo="" group-title="CANALES",ONDA CADIZ
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/1671
+#EXTINF:-1 tvg-ID="TELEVISIONGALICIA.TV" tvg-name="TELEVISION GALICIA" tvg-logo="" group-title="CANALES",TELEVISION GALICIA
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/6670
+#EXTINF:-1 tvg-ID="ELTOROTV.TV" tvg-name="EL TORO TV" tvg-logo="" group-title="CANALES",EL TORO TV
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/6275
+#EXTINF:-1 tvg-ID="TELEMADRID.TV" tvg-name="TELEMADRID" tvg-logo="" group-title="CANALES",TELEMADRID
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/1740
+#EXTINF:-1 tvg-ID="CANALEXTREMADURA.TV" tvg-name="CANAL EXTREMADURA" tvg-logo="" group-title="CANALES",CANAL EXTREMADURA
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/1739
+#EXTINF:-1 tvg-ID="CASTILLALAMANCHA.TV" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="CANALES",CASTILLA LA MANCHA
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/6330
+#EXTINF:-1 tvg-ID="ETB1.TV" tvg-name="ETB 1" tvg-logo="" group-title="CANALES",ETB 1
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/11697
+#EXTINF:-1 tvg-ID="TV3.TV" tvg-name="TV3" tvg-logo="" group-title="CANALES",TV3
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/11700
+#EXTINF:-1 tvg-ID="EURONEWS.TV" tvg-name="EURONEWS" tvg-logo="" group-title="CANALES",EURONEWS
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/8487
+#EXTINF:-1 tvg-ID="NEGOCIOSTV.TV" tvg-name="NEGOCIOS TV" tvg-logo="" group-title="CANALES",NEGOCIOS TV
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/8948
+#EXTINF:-1 tvg-ID="7NNNOTICIAS.TV" tvg-name="7NN NOTICIAS" tvg-logo="" group-title="CANALES",7NN NOTICIAS
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/8949
+#EXTINF:-1 tvg-ID="24HORASHD.TV" tvg-name="24 HORAS HD" tvg-logo="" group-title="CANALES",24 HORAS HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5835
+#EXTINF:-1 tvg-ID="M+CINE.TV" tvg-name="M+ CINE" tvg-logo="" group-title="CANALES",M+ CINE
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5825
+#EXTINF:-1 tvg-ID="M+SERIES.TV" tvg-name="M+ SERIES" tvg-logo="" group-title="CANALES",M+ SERIES
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5809
+#EXTINF:-1 tvg-ID="M+ORIGINALES.TV" tvg-name="M+ ORIGINALES" tvg-logo="" group-title="CANALES",M+ ORIGINALES
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5805
+#EXTINF:-1 tvg-ID="M+TERROR.TV" tvg-name="M+ TERROR" tvg-logo="" group-title="CANALES",M+ TERROR
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/11693
+#EXTINF:-1 tvg-ID="M+CLASICOS.TV" tvg-name="M+ CLASICOS" tvg-logo="" group-title="CANALES",M+ CLASICOS
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/7576
+#EXTINF:-1 tvg-ID="M+ACCION.TV" tvg-name="M+ ACCION" tvg-logo="" group-title="CANALES",M+ ACCION
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5828
+#EXTINF:-1 tvg-ID="M+COMEDIA.TV" tvg-name="M+ COMEDIA" tvg-logo="" group-title="CANALES",M+ COMEDIA
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5829
+#EXTINF:-1 tvg-ID="M+DRAMA.TV" tvg-name="M+ DRAMA " tvg-logo="" group-title="CANALES",M+ DRAMA 
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5830
+#EXTINF:-1 tvg-ID="M+CINEESPAÑOL.TV" tvg-name="M+ CINE ESPAÑOL" tvg-logo="" group-title="CANALES",M+ CINE ESPAÑOL
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5831
+#EXTINF:-1 tvg-ID="M+SUSPENSE.TV" tvg-name="M+ SUSPENSE" tvg-logo="" group-title="CANALES",M+ SUSPENSE
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/7578
+#EXTINF:-1 tvg-ID="M+INDIEHD.TV" tvg-name="M+ INDIE HD" tvg-logo="" group-title="CANALES",M+ INDIE HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/11684
+#EXTINF:-1 tvg-ID="TCMHD.TV" tvg-name="TCM HD" tvg-logo="" group-title="CANALES",TCM HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5832
+#EXTINF:-1 tvg-ID="HOLLYWOODHD.TV" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="CANALES",HOLLYWOOD HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5833
+#EXTINF:-1 tvg-ID="XTRM.TV" tvg-name="XTRM" tvg-logo="" group-title="CANALES",XTRM
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/9009
+#EXTINF:-1 tvg-ID="SUNDANCE.TV" tvg-name="SUNDANCE" tvg-logo="" group-title="CANALES",SUNDANCE
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5885
+#EXTINF:-1 tvg-ID="DARKHD.TV" tvg-name="DARK HD" tvg-logo="" group-title="CANALES",DARK HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/8317
+#EXTINF:-1 tvg-ID="SOMOS.TV" tvg-name="SOMOS" tvg-logo="" group-title="CANALES",SOMOS
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/12026
+#EXTINF:-1 tvg-ID="PARAMOUNT.TV" tvg-name="PARAMOUNT" tvg-logo="" group-title="CANALES",PARAMOUNT
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5834
+#EXTINF:-1 tvg-ID="M+DOCUMENTALES.TV" tvg-name="M+ DOCUMENTALES" tvg-logo="" group-title="CANALES",M+ DOCUMENTALES
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/6274
+#EXTINF:-1 tvg-ID="M+MUSICA.TV" tvg-name="M+ MUSICA" tvg-logo="" group-title="CANALES",M+ MUSICA
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5819
+#EXTINF:-1 tvg-ID="M+LARESISTENCIA.TV" tvg-name="M+ LA RESISTENCIA" tvg-logo="" group-title="CANALES",M+ LA RESISTENCIA
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/11694
+#EXTINF:-1 tvg-ID="STARTCHANNEL(FOX)HD.TV" tvg-name="START CHANNEL (FOX) HD " tvg-logo="" group-title="CANALES",START CHANNEL (FOX) HD 
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5811
+#EXTINF:-1 tvg-ID="AXNHD.TV" tvg-name="AXN HD" tvg-logo="" group-title="CANALES",AXN HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5812
+#EXTINF:-1 tvg-ID="AXNMOVIES.TV" tvg-name="AXN MOVIES " tvg-logo="" group-title="CANALES",AXN MOVIES 
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/16729
+#EXTINF:-1 tvg-ID="WARNERHD.TV" tvg-name="WARNER HD" tvg-logo="" group-title="CANALES",WARNER HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5813
+#EXTINF:-1 tvg-ID="COMEDYCENTRALHD.TV" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="CANALES",COMEDY CENTRAL HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5814
+#EXTINF:-1 tvg-ID="CALLE13HD.TV" tvg-name="CALLE 13 HD" tvg-logo="" group-title="CANALES",CALLE 13 HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5815
+#EXTINF:-1 tvg-ID="COSMOHD.TV" tvg-name="COSMO HD" tvg-logo="" group-title="CANALES",COSMO HD
+http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5816
+#EXTINF:-1 tvg
