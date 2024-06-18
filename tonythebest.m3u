@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="LA1HD.TV" tvg-name="LA 1 HD" tvg-logo="" group-title="CANALES",LA 1 HD
+#EXTINF:-1 tvg-ID="LA1HD.TV" acestream-autosearch="1" tvg-name="LA 1 HD" tvg-logo="" group-title="CANALES",LA 1 HD
 http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5799
 #EXTINF:-1 tvg-ID="LA2HD.TV" tvg-name="LA 2 HD" tvg-logo="" group-title="CANALES",LA 2 HD
 http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5800
