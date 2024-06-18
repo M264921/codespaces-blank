@@ -75,6 +75,81 @@ http://cdn1000.hehehe.ovh:80/sami09/098712/117156
 #EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 6 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 SD
 http://cdn1000.hehehe.ovh:80/sami09/098712/117157
 #EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 4k
+#EXTM3U
+#EXTINF:-1 tvg-name="0_HD" acestream-autosearch="1" group-title="spanish",0_HD
+http://pstvstream.com:2095/S19a559/Yw25mg91/3585
+#EXTINF:-1 tvg-name="24_Horas" acestream-autosearch="1" group-title="spanish",24_Horas
+http://pstvstream.com:2095/S19a559/Yw25mg91/3586
+#EXTINF:-1 tvg-name="AMC" acestream-autosearch="1" group-title="spanish",AMC
+http://pstvstream.com:2095/S19a559/Yw25mg91/3177
+#EXTINF:-1 tvg-name="Andalucia_TV" acestream-autosearch="1" group-title="spanish",Andalucia_TV
+http://pstvstream.com:2095/S19a559/Yw25mg91/3580
+#EXTINF:-1 tvg-name="Antena3" acestream-autosearch="1" group-title="spanish",Antena3
+http://pstvstream.com:2095/S19a559/Yw25mg91/3178
+#EXTINF:-1 tvg-name="Aragon_TV" acestream-autosearch="1" group-title="spanish",Aragon_TV
+http://pstvstream.com:2095/S19a559/Yw25mg91/37312
+#EXTINF:-1 tvg-name="Axn" acestream-autosearch="1" group-title="spanish",Axn
+http://pstvstream.com:2095/S19a559/Yw25mg91/3179
+#EXTINF:-1 tvg-name="Barca_TV" acestream-autosearch="1" group-title="spanish",Barca_TV
+http://pstvstream.com:2095/S19a559/Yw25mg91/1025
+#EXTINF:-1 tvg-name="Bein_Sports_n" acestream-autosearch="1" group-title="spanish",Bein_Sports_n
+http://pstvstream.com:2095/S19a559/Yw25mg91/2586
+#EXTINF:-1 tvg-name="Boing" acestream-autosearch="1" group-title="spanish",Boing
+http://pstvstream.com:2095/S19a559/Yw25mg91/3588
+#EXTINF:-1 tvg-name="CALLE_13_HD" acestream-autosearch="1" group-title="spanish",CALLE_13_HD
+http://pstvstream.com:2095/S19a559/Yw25mg91/3573
+#EXTINF:-1 tvg-name="Canal_Cocina" acestream-autosearch="1" group-title="spanish",Canal_Cocina
+http://pstvstream.com:2095/S19a559/Yw25mg91/37311
+#EXTINF:-1 tvg-name="Canal_Disney" acestream-autosearch="1" group-title="spanish",Canal_Disney
+http://pstvstream.com:2095/S19a559/Yw25mg91/37314
+#EXTINF:-1 tvg-name="Canal_Estrellas" acestream-autosearch="1" group-title="spanish",Canal_Estrellas
+http://pstvstream.com:2095/S19a559/Yw25mg91/3584
+#EXTINF:-1 tvg-name="Caza_y_pesca" acestream-autosearch="1" group-title="spanish",Caza_y_pesca
+http://pstvstream.com:2095/S19a559/Yw25mg91/3579
+#EXTINF:-1 tvg-name="Clan_Tve" acestream-autosearch="1" group-title="spanish",Clan_Tve
+http://pstvstream.com:2095/S19a559/Yw25mg91/3578
+#EXTINF:-1 tvg-name="Comedy_central" acestream-autosearch="1" group-title="spanish",Comedy_central
+http://pstvstream.com:2095/S19a559/Yw25mg91/3180
+#EXTINF:-1 tvg-name="Cuarto" acestream-autosearch="1" group-title="spanish",Cuarto
+http://pstvstream.com:2095/S19a559/Yw25mg91/4460
+#EXTINF:-1 tvg-name="Decasa" acestream-autosearch="1" group-title="spanish",Decasa
+http://pstvstream.com:2095/S19a559/Yw25mg91/37310
+#EXTINF:-1 tvg-name="Discovery" acestream-autosearch="1" group-title="spanish",Discovery
+http://pstvstream.com:2095/S19a559/Yw25mg91/3181
+#EXTINF:-1 tvg-name="DISNEY_CHANNEL_HD" acestream-autosearch="1" group-title="spanish",DISNEY_CHANNEL_HD
+http://pstvstream.com:2095/S19a559/Yw25mg91/3570
+#EXTINF:-1 tvg-name="Disney_Junior" acestream-autosearch="1" group-title="spanish",Disney_Junior
+http://pstvstream.com:2095/S19a559/Yw25mg91/4461
+#EXTINF:-1 tvg-name="DIVINITY" acestream-autosearch="1" group-title="spanish",DIVINITY
+http://pstvstream.com:2095/S19a559/Yw25mg91/3128
+#EXTINF:-1 tvg-name="Energy" acestream-autosearch="1" group-title="spanish",Energy
+http://pstvstream.com:2095/S19a559/Yw25mg91/3581
+#EXTINF:-1 tvg-name="EUROSPORT_1" acestream-autosearch="1" group-title="spanish",EUROSPORT_1
+http://pstvstream.com:2095/S19a559/Yw25mg91/3583
+#EXTINF:-1 tvg-name="EUROSPORT_2" acestream-autosearch="1" group-title="spanish",EUROSPORT_2
+http://pstvstream.com:2095/S19a559/Yw25mg91/3582
+#EXTINF:-1 tvg-name="FDF" acestream-autosearch="1" group-title="spanish",FDF
+http://pstvstream.com:2095/S19a559/Yw25mg91/3577
+#EXTINF:-1 tvg-name="FOX_HD" acestream-autosearch="1" group-title="spanish",FOX_HD
+http://pstvstream.com:2095/S19a559/Yw25mg91/1014
+#EXTINF:-1 tvg-name="Gol_tv" acestream-autosearch="1" group-title="spanish",Gol_tv
+http://pstvstream.com:2095/S19a559/Yw25mg91/3182
+#EXTINF:-1 tvg-name="Historia" acestream-autosearch="1" group-title="spanish",Historia
+http://pstvstream.com:2095/S19a559/Yw25mg91/3183
+#EXTINF:-1 tvg-name="HOLLYWOOD_HD" acestream-autosearch="1" group-title="spanish",HOLLYWOOD_HD
+http://pstvstream.com:2095/S19a559/Yw25mg91/3568
+#EXTINF:-1 tvg-name="LA-LIGA-1" acestream-autosearch="1" group-title="spanish",LA-LIGA-1
+http://pstvstream.com:2095/S19a559/Yw25mg91/21874
+#EXTINF:-1 tvg-name="LA-LIGA-2" acestream-autosearch="1" group-title="spanish",LA-LIGA-2
+http://pstvstream.com:2095/S19a559/Yw25mg91/21873
+#EXTINF:-1 tvg-name="LA-LIGA-3" acestream-autosearch="1" group-title="spanish",LA-LIGA-3
+http://pstvstream.com:2095/S19a559/Yw25mg91/21872
+#EXTINF:-1 tvg-name="LA-LIGA-4" acestream-autosearch="1" group-title="spanish",LA-LIGA-4
+http://pstvstream.com:2095/S19a559/Yw25mg91/21871
+#EXTINF:-1 tvg-name="LA-LIGA-7" acestream-autosearch="1" group-title="spanish",LA-LIGA-7
+http://pstvstream.com:2095/S19a559/Yw25mg91/21870
+#EXTINF:-1 tvg-name="La-Liga-TV-HD" acestream-autosearch="1" group-title="spanish",La-Liga-TV-HD
+http://pstvstream.com:2095/S19a559
 http://cdn1000.hehehe.ovh:80/sami09/098712/117158
 #EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 HD
 http://cdn1000.hehehe.ovh:80/sami09/098712/117159
