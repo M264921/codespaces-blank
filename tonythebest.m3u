@@ -20,7 +20,7 @@ http://cdn1000.hehehe.ovh:80/sami09/098712/116873
 http://cdn1000.hehehe.ovh:80/sami09/098712/116874
 #EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 4K ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 1 4K ES
 http://cdn1000.hehehe.ovh:80/sami09/098712/116867
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 HD ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 1 HD ES
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 HD ES" acestream-autosearch="1" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 1 HD ES
 http://cdn1000.hehehe.ovh:80/sami09/098712/116868
 #EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 SD ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 1 SD ES
 http://cdn1000.hehehe.ovh:80/sami09/098712/116869
@@ -48,7 +48,7 @@ http://cdn1000.hehehe.ovh:80/sami09/098712/119410
 http://cdn1000.hehehe.ovh:80/sami09/098712/116089
 #EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 HD
 http://cdn1000.hehehe.ovh:80/sami09/098712/116090
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 SD
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 SD" acestream-autosearch="1"  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 SD
 http://cdn1000.hehehe.ovh:80/sami09/098712/116091
 #EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 3 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 4K
 http://cdn1000.hehehe.ovh:80/sami09/098712/116092
@@ -74,7 +74,7 @@ http://cdn1000.hehehe.ovh:80/sami09/098712/117155
 http://cdn1000.hehehe.ovh:80/sami09/098712/117156
 #EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 6 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 SD
 http://cdn1000.hehehe.ovh:80/sami09/098712/117157
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 4k
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 4k" acestream-autosearch="1" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 4k
 #EXTM3U
 #EXTINF:-1 tvg-name="0_HD" acestream-autosearch="1" group-title="spanish",0_HD
 http://pstvstream.com:2095/S19a559/Yw25mg91/3585
