@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ES:0_HD tu puta madre group-title="sport",M. LaLiga"
+#EXTINF:-1,ES:0_HD
 http://pstvstream.com:2095/S19a559/Yw25mg91/3585
 #EXTINF:-1,ES:24_Horas
 http://pstvstream.com:2095/S19a559/Yw25mg91/3586
