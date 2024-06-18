@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="0_HD" group-title="spanish",0_HD
+#EXTINF:-1 tvg-name="0_HD" acestream-autosearch="1" group-title="spanish",0_HD
 http://pstvstream.com:2095/S19a559/Yw25mg91/3585
 #EXTINF:-1 tvg-name="24_Horas" acestream-autosearch="1" group-title="spanish",24_Horas
 http://pstvstream.com:2095/S19a559/Yw25mg91/3586
