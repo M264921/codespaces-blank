@@ -151,5 +151,5 @@ http://pstvstream.com:2095/S19a559/Yw25mg91/21870
 #EXTINF:-1 tvg-name="La-Liga-TV-HD" acestream-autosearch="1" group-title="spanish",La-Liga-TV-HD
 http://pstvstream.com:2095/S19a559
 http://cdn1000.hehehe.ovh:80/sami09/098712/117158
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 HD
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 HD" acestream-autosearch="1" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 HD
 <iframe src="http://acestream.org/embed/cc9b7f5fe416069a2110da0909b0f915043c468b" width="800" height="400" />
