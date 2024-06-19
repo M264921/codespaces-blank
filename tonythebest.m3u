@@ -79,3 +79,25 @@ https://upstream.to/qm3pzsqju0o2
 https://vidmoly.to/embed-461oomgymc9b.html
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_zone_of_interest-642266949-large.jpg",ZONA DE INTERES
 https://filemoon.sx/d/x684dy6sznda/Zona_de_Interes__2023_Pelicula_.ts
+"stations": 
+[
+    {
+      "name": "8 APELLIDOS MARROQUÍS",
+      "image": "https://pics.filmaffinity.com/ocho_apellidos_marroquis-568123490-large.jpg",
+      "url": "https://bembed.net/v/k3gG5q37QyoE1N2",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "3 MOSQUETEROS Y DARTAGNAN, LOS",
+      "info": "2023",
+      "image": "https://i.postimg.cc/QM2mgyRG/3-mosqueteros-D-Artagnan-Los-2023-Pelicula-familiar.jpg",
+      "url": "https://upstream.to/wark3v7hnv5j",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
