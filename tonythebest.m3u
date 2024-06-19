@@ -1,81 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="LA1HD.TV" acestream-autosearch="1" tvg-name="LA 1 HD" tvg-logo="" group-title="CANALES",LA 1 HD
-http://avod.me/play/cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-ID="LA2HD.TV" tvg-name="LA 2 HD" tvg-logo="" group-title="CANALES",LA 2 HD
-http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5800
-#EXTINF:-1 tvg-ID="ANTENA3HD.TV" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="CANALES",ANTENA 3 HD
-http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5801
-#EXTINF:-1 tvg-ID="CUATROHD.TV" tvg-name="CUATRO HD" tvg-logo="" group-title="CANALES",CUATRO HD
-http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5802
-#EXTINF:-1 tvg-ID="TELECINCOHD.TV" tvg-name="TELECINCO HD" tvg-logo="" group-title="CANALES",TELECINCO HD
-http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5803
-#EXTINF:-1 tvg-ID="LASEXTAHD.TV" tvg-name="LA SEXTA HD" tvg-logo="" group-title="CANALES",LA SEXTA HD
-http://live.11odin.xyz:8080/QbDydT5MdP/KuWjC8Q3bu/5804
-#EXTINF:-1 tvg-ID="MOVISTARPLUS+.TV" tvg-name="MOVISTAR PLUS +" tvg-logo="" group-title="CANALES",MOVISTAR PLUS +
-#EXTINF:-1 tvg-ID="" tvg-name="FEF TV 20" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 20
-http://cdn1000.hehehe.ovh:80/sami09/098712/121032
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LaLiga_logo_%282023%29.svg/2560px-LaLiga_logo_%282023%29.svg.png" group-title="DAZN | DAZN POR M+",DAZN LA LIGA HD ES
-http://cdn1000.hehehe.ovh:80/sami09/098712/116873
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA SD ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN LA LIGA SD ES
-http://cdn1000.hehehe.ovh:80/sami09/098712/116874
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 4K ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 1 4K ES
-http://cdn1000.hehehe.ovh:80/sami09/098712/116867
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 HD ES" acestream-autosearch="1" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 1 HD ES
-http://cdn1000.hehehe.ovh:80/sami09/098712/116868
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 SD ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 1 SD ES
-http://cdn1000.hehehe.ovh:80/sami09/098712/116869
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 2 4K ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 2 4K ES
-http://cdn1000.hehehe.ovh:80/sami09/098712/116870
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 2 HD ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 2 HD ES
-http://cdn1000.hehehe.ovh:80/sami09/098712/116871
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 2 SD ES" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN 2 SD ES
-http://cdn1000.hehehe.ovh:80/sami09/098712/116872
-#EXTINF:-1 tvg-ID="LALIGA+" tvg-name="LALIGA+ HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",LALIGA+ HD
-http://cdn1000.hehehe.ovh:80/sami09/098712/137203
-#EXTINF:-1 tvg-ID="LALIGA+" tvg-name="LALIGA+ SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",LALIGA+ SD
-http://cdn1000.hehehe.ovh:80/sami09/098712/137204
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 4k" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4k
-http://cdn1000.hehehe.ovh:80/sami09/098712/116086
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV HD
-http://cdn1000.hehehe.ovh:80/sami09/098712/116087
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV SD
-http://cdn1000.hehehe.ovh:80/sami09/098712/116088
-#EXTINF:-1 tvg-ID="M+ LALIGA TV" tvg-name="M+LaLigaTV HD C" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV HD C
-http://cdn1000.hehehe.ovh:80/sami09/098712/119409
-#EXTINF:-1 tvg-ID="M+ LALIGA TV" tvg-name="M+LaLigaTV SD C" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV SD C
-http://cdn1000.hehehe.ovh:80/sami09/098712/119410
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 4K
-http://cdn1000.hehehe.ovh:80/sami09/098712/116089
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 HD
-http://cdn1000.hehehe.ovh:80/sami09/098712/116090
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 SD" acestream-autosearch="1"  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 SD
-http://cdn1000.hehehe.ovh:80/sami09/098712/116091
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 3 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 4K
-http://cdn1000.hehehe.ovh:80/sami09/098712/116092
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 HD
-http://cdn1000.hehehe.ovh:80/sami09/098712/116093
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 SD
-http://cdn1000.hehehe.ovh:80/sami09/098712/116094
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 4 4k" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 4k
-http://cdn1000.hehehe.ovh:80/sami09/098712/117149
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 HD
-http://cdn1000.hehehe.ovh:80/sami09/098712/117150
-#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 SD
-http://cdn1000.hehehe.ovh:80/sami09/098712/117151
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 5 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 4k
-http://cdn1000.hehehe.ovh:80/sami09/098712/117152
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 5 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 HD
-http://cdn1000.hehehe.ovh:80/sami09/098712/117153
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 5 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 SD
-http://cdn1000.hehehe.ovh:80/sami09/098712/117154
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 6 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 4k
-http://cdn1000.hehehe.ovh:80/sami09/098712/117155
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 6 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 HD
-http://cdn1000.hehehe.ovh:80/sami09/098712/117156
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 6 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 SD
-http://cdn1000.hehehe.ovh:80/sami09/098712/117157
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 4k" acestream-autosearch="1" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 4k
-#EXTM3U
 #EXTINF:-1 tvg-name="0_HD" acestream-autosearch="1" group-title="spanish",0_HD
 http://pstvstream.com:2095/S19a559/Yw25mg91/3585
 #EXTINF:-1 tvg-name="24_Horas" acestream-autosearch="1" group-title="spanish",24_Horas
@@ -150,5 +73,34 @@ http://pstvstream.com:2095/S19a559/Yw25mg91/21871
 http://pstvstream.com:2095/S19a559/Yw25mg91/21870
 #EXTINF:-1 tvg-name="La-Liga-TV-HD" acestream-autosearch="1" group-title="spanish",La-Liga-TV-HD
 http://pstvstream.com:2095/S19a559
-#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 test HD" acestream-autosearch="1" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 HD
-http://avod.me/play/cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/skinamarink-587056182-large.jpg",SKINAMARINK
+https://upstream.to/qm3pzsqju0o2
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sly-322096027-large.jpg",SLY
+https://vidmoly.to/embed-461oomgymc9b.html
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/snowden-767575981-large.jpg",SNOWDEN
+https://upstream.to/kikc2cy2aixj
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N7W5c2G/Solo-una-vez-2021-Pelicula.jpg",SOLO UNA VEZ
+https://upstream.to/3t0r7bax2tn7
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sound_of_freedom-546775358-large.jpg",SOUND OF FREEDOM
+https://filemoon.sx/d/nk7qiwfz0inm/z_Sound_of_Freedom.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/gelditasuna_ekaitzean-474192990-large.jpg",STILLNESS IN THE STORM
+https://upstream.to/t66fawtq89cr
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv1v5580/superman.jpg",SUPERMAN
+https://upstream.to/jp8qhlbifhu5
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1WvZpfj/supermario.jpg",SUPER MARIO BROS
+https://upstream.to/n6t7wtd36lrx
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFcfVHtP/tadeo.jpg",TADEO EL EXPLORADOR PERDIDO
+https://upstream.to/dc1f2o3nh61o
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbJdM8gh/Teen-Titans-Go.jpg",TEEN TITANS GO
+https://upstream.to/9x6hslte84hg
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_zone_of_interest-642266949-large.jpg",ZONA DE INTERES
+https://filemoon.sx/d/x684dy6sznda/Zona_de_Interes__2023_Pelicula_.ts
